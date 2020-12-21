@@ -1,0 +1,26 @@
+C:\Users\compucity\source\repos\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.deps.json
+C:\Users\compucity\source\repos\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.dll
+C:\Users\compucity\source\repos\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.csprojAssemblyReference.cache
+C:\Users\compucity\source\repos\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.AssemblyInfoInputs.cache
+C:\Users\compucity\source\repos\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.AssemblyInfo.cs
+C:\Users\compucity\source\repos\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.runtimeconfig.json
+C:\Users\compucity\source\repos\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.runtimeconfig.dev.json
+C:\Users\compucity\source\repos\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.pdb
+C:\Users\compucity\source\repos\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.dll
+C:\Users\compucity\source\repos\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.pdb
+C:\Users\compucity\source\repos\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.genruntimeconfig.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.deps.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.runtimeconfig.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.runtimeconfig.dev.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\DataAccessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\BuisinessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\bin\Debug\netcoreapp3.1\BuisinessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.csprojAssemblyReference.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.csproj.CoreCompileInputs.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.AssemblyInfoInputs.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.AssemblyInfo.cs
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.csproj.CopyComplete
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\DataAccessLay\obj\Debug\netcoreapp3.1\DataAccessLay.genruntimeconfig.cache

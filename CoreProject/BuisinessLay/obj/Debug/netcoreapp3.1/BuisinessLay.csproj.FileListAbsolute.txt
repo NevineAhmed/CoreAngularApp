@@ -1,0 +1,23 @@
+C:\Users\compucity\source\repos\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.deps.json
+C:\Users\compucity\source\repos\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.dll
+C:\Users\compucity\source\repos\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.csprojAssemblyReference.cache
+C:\Users\compucity\source\repos\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.AssemblyInfoInputs.cache
+C:\Users\compucity\source\repos\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.AssemblyInfo.cs
+C:\Users\compucity\source\repos\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.runtimeconfig.json
+C:\Users\compucity\source\repos\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.runtimeconfig.dev.json
+C:\Users\compucity\source\repos\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.genruntimeconfig.cache
+C:\Users\compucity\source\repos\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.pdb
+C:\Users\compucity\source\repos\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.dll
+C:\Users\compucity\source\repos\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.deps.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.runtimeconfig.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.runtimeconfig.dev.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\bin\Debug\netcoreapp3.1\BuisinessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.csprojAssemblyReference.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.csproj.CoreCompileInputs.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.AssemblyInfoInputs.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.AssemblyInfo.cs
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\BuisinessLay\obj\Debug\netcoreapp3.1\BuisinessLay.genruntimeconfig.cache

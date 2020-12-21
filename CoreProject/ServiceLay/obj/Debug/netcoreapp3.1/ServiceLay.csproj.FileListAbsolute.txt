@@ -1,0 +1,28 @@
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\ServiceLay.deps.json
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\ServiceLay.dll
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\ServiceLay.pdb
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\BuisinessLay.dll
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\DataAccessLay.dll
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\DataAccessLay.pdb
+C:\Users\compucity\source\repos\ServiceLay\bin\Debug\netcoreapp3.1\BuisinessLay.pdb
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.csprojAssemblyReference.cache
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.csproj.CoreCompileInputs.cache
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.AssemblyInfoInputs.cache
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.AssemblyInfo.cs
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.csproj.CopyComplete
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.dll
+C:\Users\compucity\source\repos\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\ServiceLay.deps.json
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\ServiceLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\ServiceLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\BuisinessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\DataAccessLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\DataAccessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\bin\Debug\netcoreapp3.1\BuisinessLay.pdb
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.csprojAssemblyReference.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.csproj.CoreCompileInputs.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.AssemblyInfoInputs.cache
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.AssemblyInfo.cs
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.csproj.CopyComplete
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.dll
+F:\sweif cources\MyPracticeApp\CoreAngularApp\CoreProject\ServiceLay\obj\Debug\netcoreapp3.1\ServiceLay.pdb
